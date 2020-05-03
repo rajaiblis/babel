@@ -2,6 +2,8 @@
 
 npm install @babel/core babel-loader @babel/preset-env --save-dev
 
+# Contoh
+
 module: {
         rules: [
             {
@@ -17,4 +19,3 @@ module: {
                 ]
         ]   }
     }        
-// contoh
