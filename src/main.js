@@ -3,8 +3,8 @@ require("./images/link.jpg")
 require("./index.html")
 
 
-let a = () => {
-    console.log("heello ihsandroid")
+let a = async() => {
+    await console.log("heello ihsandroid")
 }
 
 console.log(a)
